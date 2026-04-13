@@ -10,6 +10,13 @@ Projeto simples desenvolvido em Python para praticar lógica de programação.
 ## Tecnologias
 - Python
 
+  ## Aprendizados
+
+- Estruturas de repetição (while)
+- Condicionais (if/else)
+- Tratamento de erros (try/except)
+- Manipulação de listas
+
 ## Objetivo
 Projeto criado para treinar lógica de programação e estrutura de código.
 
