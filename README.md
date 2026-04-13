@@ -15,3 +15,9 @@ Projeto criado para treinar lógica de programação e estrutura de código.
 
 ## Autor
 Fernando Ferreira dos Santos
+
+## Como executar
+
+1. Baixe o projeto
+2. Abra no VS Code
+3. Execute o arquivo main.py
