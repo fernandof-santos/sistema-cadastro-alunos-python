@@ -10,7 +10,7 @@ Projeto simples desenvolvido em Python para praticar lógica de programação.
 ## Tecnologias
 - Python
 
-  ## Aprendizados
+## Aprendizados
 
 - Estruturas de repetição (while)
 - Condicionais (if/else)
