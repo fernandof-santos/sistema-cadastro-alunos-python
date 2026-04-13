@@ -20,4 +20,4 @@ Fernando Ferreira dos Santos
 
 1. Baixe o projeto
 2. Abra no VS Code
-3. Execute o arquivo main.py
+3. Execute o arquivo cadastro_alunos.py
