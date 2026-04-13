@@ -1,6 +1,6 @@
 # Sistema de Cadastro de Alunos
 
-Projeto simples desenvolvido em Python para praticar lógica de programação.
+Projeto desenvolvido em Python com o objetivo de praticar lógica de programação e estrutura de código.
 
 ## Funcionalidades
 - Cadastrar alunos
